@@ -2,4 +2,4 @@
 const element = document.querySelector('.color-black');
 
 // Apply a pink background color to it
-element.style.backgroundColor = 'black';
+element.style.backgroundColor = 'blue';
